@@ -1,0 +1,3 @@
+<?php
+
+// Init config .php

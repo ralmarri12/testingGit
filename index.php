@@ -6,7 +6,8 @@
     </head>
     <body>
 
+        <!-- THIS IS THE HEADER OF THIS PAGE -->
         <h1>Hello</h1>
-        <p>This is my frist git reposotory</p>
+        <p>This is my frist git project</p>
     </body>
 </html>
